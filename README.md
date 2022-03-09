@@ -19,11 +19,14 @@ Since all nodes in the blockchain have to maintain all blockchain data, nodes wi
   
 - Decoding process
   - Decoding after receiving symbols from multiple nodes
-  https://user-images.githubusercontent.com/73271891/157441202-4f76ed7f-a658-4d13-b30e-6c17c0416b26.jpg
+  <img src="https://user-images.githubusercontent.com/73271891/157441202-4f76ed7f-a658-4d13-b30e-6c17c0416b26.jpg" width="40%">
+  
 
   - Detecting malicious nodes
-  https://user-images.githubusercontent.com/73271891/157441253-0255d06e-3edc-47be-b572-a9bf97d5d5c9.jpg
-  https://user-images.githubusercontent.com/73271891/157441326-628a1fcd-dc0d-4063-ab87-37c7b9084db1.jpg
+  <img src="https://user-images.githubusercontent.com/73271891/157441253-0255d06e-3edc-47be-b572-a9bf97d5d5c9.jpg" width="40%">
+  <img src="https://user-images.githubusercontent.com/73271891/157441326-628a1fcd-dc0d-4063-ab87-37c7b9084db1.jpg" width="40%">
+  
+  
 
 
 ### REFERENCE
