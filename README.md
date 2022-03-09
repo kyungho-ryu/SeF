@@ -9,11 +9,11 @@ Since all nodes in the blockchain have to maintain all blockchain data, nodes wi
 
 - Encoding process
   - A node propagates symbols to the nodes of the blockchain network
-  - A node
+  - the sending side
   <img src="https://user-images.githubusercontent.com/73271891/157414197-def0be43-7e86-46fa-9854-382beb7de8d1.jpg" width="40%">
   <img src="https://user-images.githubusercontent.com/73271891/157414365-65f1353a-1ca5-4bc6-a1b4-9efa91cb2b77.jpg" width="40%">
 
-  - The nodes of the blockchain network
+  - the receiving side
   <img src="https://user-images.githubusercontent.com/73271891/157414327-c4cfe6fb-73f3-44d0-a8ec-a49cbac9952d.jpg" width="40%">
   <img src="https://user-images.githubusercontent.com/73271891/157414426-1d684222-68c5-4f40-b71f-8d1b940273cb.jpg" width="40%">
 
