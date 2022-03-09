@@ -11,12 +11,19 @@ Since all nodes in the blockchain have to maintain all blockchain data, nodes wi
   - A node propagates symbols to the nodes of the blockchain network
   - the sending side
   <img src="https://user-images.githubusercontent.com/73271891/157414197-def0be43-7e86-46fa-9854-382beb7de8d1.jpg" width="50%">
-  <img src="https://user-images.githubusercontent.com/73271891/157414365-65f1353a-1ca5-4bc6-a1b4-9efa91cb2b77.jpg" width="40%">\
+  <img src="https://user-images.githubusercontent.com/73271891/157414365-65f1353a-1ca5-4bc6-a1b4-9efa91cb2b77.jpg" width="40%">
 
   - the receiving side
   <img src="https://user-images.githubusercontent.com/73271891/157414327-c4cfe6fb-73f3-44d0-a8ec-a49cbac9952d.jpg" width="50%">
   <img src="https://user-images.githubusercontent.com/73271891/157414426-1d684222-68c5-4f40-b71f-8d1b940273cb.jpg" width="40%">
+  
+- Decoding process
+  - Decoding after receiving symbols from multiple nodes
+  https://user-images.githubusercontent.com/73271891/157441202-4f76ed7f-a658-4d13-b30e-6c17c0416b26.jpg
 
+  - Detecting malicious nodes
+  https://user-images.githubusercontent.com/73271891/157441253-0255d06e-3edc-47be-b572-a9bf97d5d5c9.jpg
+  https://user-images.githubusercontent.com/73271891/157441326-628a1fcd-dc0d-4063-ab87-37c7b9084db1.jpg
 
 
 ### REFERENCE
