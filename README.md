@@ -36,8 +36,10 @@ LT codes are used to convert blockchain data into symbols, which are then propag
 - Simulates network operations by receiving transmitted symbols from the sending side.
 
 **Example Output:**
-<img src="https://user-images.githubusercontent.com/73271891/157414327-c4cfe6fb-73f3-44d0-a8ec-a49cbac9952d.jpg" width="50%">
-<img src="https://user-images.githubusercontent.com/73271891/157414426-1d684222-68c5-4f40-b71f-8d1b940273cb.jpg" width="40%">
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://user-images.githubusercontent.com/73271891/157414327-c4cfe6fb-73f3-44d0-a8ec-a49cbac9952d.jpg" alt="Image 1" width="50%">
+    <img src="https://user-images.githubusercontent.com/73271891/157414426-1d684222-68c5-4f40-b71f-8d1b940273cb.jpg" alt="Image 2" width="40%">
+</div>
 
 **File Storage:**
 - Received data is stored in unique folders for each node.
@@ -59,9 +61,10 @@ The received symbols are used to restore the original data, with additional func
 - Logs malicious nodes and isolates their data.
 
 **Example Output:**
-<img src="https://user-images.githubusercontent.com/73271891/157441253-0255d06e-3edc-47be-b572-a9bf97d5d5c9.jpg" width="40%">
-<img src="https://user-images.githubusercontent.com/73271891/157441326-628a1fcd-dc0d-4063-ab87-37c7b9084db1.jpg" width="50%">
-
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://user-images.githubusercontent.com/73271891/157441253-0255d06e-3edc-47be-b572-a9bf97d5d5c9.jpg" alt="Image 1" width="50%">
+    <img src="https://user-images.githubusercontent.com/73271891/157441326-628a1fcd-dc0d-4063-ab87-37c7b9084db1.jpg" alt="Image 2" width="40%">
+</div>
 ---
 
 ## Results
