@@ -56,6 +56,7 @@ The received symbols are used to restore the original data, with additional func
 <div style="display: flex;">
  <img src="https://user-images.githubusercontent.com/73271891/157441202-4f76ed7f-a658-4d13-b30e-6c17c0416b26.jpg" width="40%">
 </div>
+
 #### B. Malicious Node Detection
 **Identifying Invalid Data Sources:**
 - Analyzes symbols from each node to verify data integrity.
