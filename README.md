@@ -37,8 +37,8 @@ LT codes are used to convert blockchain data into symbols, which are then propag
 
 **Example Output:**
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://user-images.githubusercontent.com/73271891/157414327-c4cfe6fb-73f3-44d0-a8ec-a49cbac9952d.jpg" alt="Image 1" width="50%">
-    <img src="https://user-images.githubusercontent.com/73271891/157414426-1d684222-68c5-4f40-b71f-8d1b940273cb.jpg" alt="Image 2" width="40%">
+    <img src="https://user-images.githubusercontent.com/73271891/157414327-c4cfe6fb-73f3-44d0-a8ec-a49cbac9952d.jpg" alt="Image 1" style="height: 300px"width="50%">
+    <img src="https://user-images.githubusercontent.com/73271891/157414426-1d684222-68c5-4f40-b71f-8d1b940273cb.jpg" alt="Image 2" style="height: 300px" width="40%">
 </div>
 
 **File Storage:**
