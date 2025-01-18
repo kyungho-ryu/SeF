@@ -24,7 +24,7 @@ LT codes are used to convert blockchain data into symbols, which are then propag
 
 **Example Output:**
 <div style="display: flex; justify-content: space-between;">
-    <img src="image1.png" alt="Image 1" width="45%" style="margin-right: 10px;">
+    <img src="image1.png" alt="Image 1" width="45%">
     <img src="image2.png" alt="Image 2" width="45%">
 </div>
 
