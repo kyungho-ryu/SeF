@@ -53,8 +53,9 @@ The received symbols are used to restore the original data, with additional func
 - Decoded data is stored in the `recoveredBlocks` directory.
 
 **Example Output:**
+<div style="display: flex;>
  <img src="https://user-images.githubusercontent.com/73271891/157441202-4f76ed7f-a658-4d13-b30e-6c17c0416b26.jpg" width="40%">
-
+</div>
 #### B. Malicious Node Detection
 **Identifying Invalid Data Sources:**
 - Analyzes symbols from each node to verify data integrity.
@@ -62,8 +63,8 @@ The received symbols are used to restore the original data, with additional func
 
 **Example Output:**
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://user-images.githubusercontent.com/73271891/157441253-0255d06e-3edc-47be-b572-a9bf97d5d5c9.jpg" alt="Image 1" width="50%">
-    <img src="https://user-images.githubusercontent.com/73271891/157441326-628a1fcd-dc0d-4063-ab87-37c7b9084db1.jpg" alt="Image 2" width="40%">
+    <img src="https://user-images.githubusercontent.com/73271891/157441253-0255d06e-3edc-47be-b572-a9bf97d5d5c9.jpg" alt="Image 1" style="height: 300px" width="50%">
+    <img src="https://user-images.githubusercontent.com/73271891/157441326-628a1fcd-dc0d-4063-ab87-37c7b9084db1.jpg" alt="Image 2" style="height: 300px" width="40%">
 </div>
 ---
 
