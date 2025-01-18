@@ -23,7 +23,10 @@ LT codes are used to convert blockchain data into symbols, which are then propag
 - Converts input block data into encoded symbols based on LT codes.
 
 **Example Output:**
-<img src="https://user-images.githubusercontent.com/73271891/157414197-def0be43-7e86-46fa-9854-382beb7de8d1.jpg" width="50%"><img src="https://user-images.githubusercontent.com/73271891/157414365-65f1353a-1ca5-4bc6-a1b4-9efa91cb2b77.jpg" width="40%">
+<div style="display: flex; justify-content: space-between;">
+    <img src="image1.png" alt="Image 1" width="45%" style="margin-right: 10px;">
+    <img src="image2.png" alt="Image 2" width="45%">
+</div>
 
 **File Storage:**
 - Encoded symbols are stored in the `encoded_symbol_files` directory.
