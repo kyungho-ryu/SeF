@@ -53,7 +53,7 @@ The received symbols are used to restore the original data, with additional func
 - Decoded data is stored in the `recoveredBlocks` directory.
 
 **Example Output:**
-<div style="display: flex;>
+<div style="display: flex;">
  <img src="https://user-images.githubusercontent.com/73271891/157441202-4f76ed7f-a658-4d13-b30e-6c17c0416b26.jpg" width="40%">
 </div>
 #### B. Malicious Node Detection
